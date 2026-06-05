@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+
+# Database backups
+*.bak
+
+# Environment variables and secrets
+.env
+*.env
+secrets.*
+passwords.txt
+connection_strings.txt
+
+# Local editor/system files
+.vscode/
+.DS_Store
+Thumbs.db
