@@ -23,4 +23,5 @@ connection_strings.txt
 # Local editor/system files
 .vscode/
 .DS_Store
-Thumbs.dbnote_to_me.md
+Thumbs.db
+note_to_me.md
