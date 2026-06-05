@@ -54,13 +54,13 @@ Den filen innehåller statiska INSERT-satser och kräver inget API-anrop när da
 Pythonprogrammet finns i:
 
 ```text
-search_books.py
+python/search_books.py
 ```
 
 Kör programmet med:
 
 ```bash
-uv run python search_books.py
+uv run python python/search_books.py
 ```
 
 Programmet söker på boktitlar och visar:
